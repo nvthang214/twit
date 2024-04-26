@@ -1,0 +1,42 @@
+html {
+  font-family: sans-serif;
+}
+.logo {
+  font-size: 50px;
+}
+.text-title {
+  font-weight: 700;
+  font-size: 40px;
+  margin: 30px 0;
+}
+.text-join {
+  font-weight: 700;
+}
+.container-2 {
+  margin: 30px 40px 20px 30px;
+}
+.google-logo {
+  width: 23px;
+  height: 26px;
+}
+.line {
+  width: 43%;
+  height: 15px;
+}
+.text {
+  margin-top: 5px;
+  color: rgb(83, 100, 113);
+  font-size: 12px;
+}
+.text a {
+  text-decoration: none;
+}
+.login-btn {
+  border: 1px solid rgba(29, 155, 240, 0.5);
+  font-weight: 500;
+}
+.have-account {
+  font-weight: 500;
+  margin-top: 35px;
+  font-size: 18px;
+}
